@@ -3,7 +3,7 @@ l = len(s)
 c = []
 
 count = 0
-for i in range(l):
+for i in range(l):        #checkng the condition
 
     if c == s[i]:
         count += 1
